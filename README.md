@@ -5,8 +5,8 @@ Soy desarrollador web en Cúcuta, especializado en tecnologías como JavaScript,
 ### 🚀 Sobre mí
 
 - 🌍 Vivo en Cúcuta, Colombia.
-- 💻 Trabajo con: JS, PHP, HTML, CSS, Laravel.
-- 📚 Aprendiendo: Python.
+- 💻 Trabajo con: JS, PHP, HTML, CSS, Tailwind CSS.
+- 📚 Aprendiendo: Python y Laravel.
 - 🎓 Tecnólogo en ADSI, estudiando Ingeniería de Software.
 - 🌐 Más en [alexdesarrolla.com](https://alexdesarrolla.com).
 
