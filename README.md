@@ -27,4 +27,4 @@ Soy desarrollador web en Cúcuta, especializado en tecnologías como JavaScript,
 
 ---
 
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y conectar conmigo.
+¡Gracias por visitar mi perfil! Siéntete libre de conectar conmigo.
